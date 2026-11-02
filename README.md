@@ -24,4 +24,4 @@ debt-to-equity rose from 0.28 to 0.54
 - Dashboard screenshot
 
 ## Limits
-5 years, no peer comparison yet (Part 2: five companies), source data rounded.
+5 years, no peer comparison yet . source data rounded.
